@@ -1,0 +1,8 @@
+modelo/Asistencia.class
+MainApp.class
+repositories/ClaseRepository.class
+modelo/Alumno.class
+repositories/AsistenciaRepository.class
+util/DatabaseConnection.class
+repositories/AlumnoRepository.class
+modelo/Clase.class
